@@ -1,7 +1,7 @@
-<h1>007 Turbo </h1>
+<h1>mr.qlq </h1>
 
 
-<h2>007 Turbo</h2>
+<h2>mr.qlq</h2>
 
 
 <img src="https://imgur.com/8fhTKuk" data-canonical-src="https://imgur.com/8fhTKuk" style="max-width:100%;">
@@ -16,7 +16,7 @@
 <code>python main.py</code>
 
 <h2>💬 Contact</h2>
-<li>You Want Ask About Any Thing Add Me On Discord : @marwan.007#3936</li>
+<li>You Want Ask About Any Thing Add Me On Discord : insta @master_qalaq</li>
 <hr>
 
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
