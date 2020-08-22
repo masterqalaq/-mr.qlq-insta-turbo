@@ -4,7 +4,7 @@
 <h2>mr.qlq</h2>
 
 
-<img src="https://imgur.com/8fhTKuk" data-canonical-src="https://imgur.com/8fhTKuk" style="max-width:100%;">
+<img src="https://i.imgur.com/8fhTKuk.jpg" data-canonical-src="https://i.imgur.com/8fhTKuk.jpg" style="max-width:100%;">
 
 
 
