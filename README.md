@@ -1,13 +1,10 @@
 <h1>007 Turbo </h1>
-<p><a href="https://github.com/mrwn007/007turbo"><img  style="max-width:100%;"></a>
-<a href="https://github.com/mrwn007/007turbo"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
-<a href="https://github.com/mrwn007/007turbo"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
-<p><h1>Auto Instagram username Hunter 🔎 </h1>
+
 
 <h2>007 Turbo</h2>
 
 
-<img src="https://i.imgur.com/kQ3aEqz.jpg" data-canonical-src="https://i.imgur.com/kQ3aEqz.jpg" style="max-width:100%;">
+<img src="https://imgur.com/8fhTKuk" data-canonical-src="https://imgur.com/8fhTKuk" style="max-width:100%;">
 
 
 
@@ -26,7 +23,7 @@
 
 ```bash
 git clone https://github.com/mrwn007/007turbo.git
-cd 007turbo
+cd mr.qlq-tturbo
 pip install requests
 python main.py
 ```
@@ -40,7 +37,7 @@ Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 pkg install git
 pkg install python
 git clone https://github.com/mrwn007/007turbo.git
-cd 007turbo
+cd mr.qlq-tturbo
 python3 -m pip install requests
 python main.py
 ```
@@ -51,7 +48,7 @@ Download python3
 Download 007turbo
 Extract 007turbo into Desktop
 Open CMD and type the following commands:
-cd Desktop/007turbo-master/
+cd Desktop\mr.qlq-tturbo
 python -m pip install requests
 python main.py
 ```
